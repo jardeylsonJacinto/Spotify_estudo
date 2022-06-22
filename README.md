@@ -11,6 +11,8 @@ Desenvolvimento web da udemy. Como objetivo do projeto foi preciso desenvolver u
 [![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/default.asp)
 [![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 
+A versão usada do Bootstrap é a v5.1.3
+
 ## Layout do projeto
 ![spotify](https://user-images.githubusercontent.com/93053356/175050725-ec10c680-19b5-4879-a3e4-019db2c2ca71.jpg)
 
